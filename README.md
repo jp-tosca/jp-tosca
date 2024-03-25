@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 ***
 
 <div>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=jp-tosca&show_icons=true&locale=en">
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-tosca">
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/index?username=jp-tosca&show_icons=true&locale=en&layout=compact&hide=stars&theme=transparent&rank_icon=github">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-tosca&theme=transparent">
 </div>
