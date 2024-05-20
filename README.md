@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/index?username=jp-tosca&show_icons=true&locale=en&layout=compact&hide=stars&theme=transparent&rank_icon=github">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jp-tosca&theme=transparent&mode=weekly&card_height=180&hide_longest_streak=true" alt="GitHub Streak" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=jp-tosca&theme=transparent&mode=weekly&card_height=180&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
