@@ -1,4 +1,4 @@
-### Hi, I’m @jp-tosca and I am part of the [Dataverse](https://github.com/IQSS/dataverse) core development at [Harvard University - IQSS](https://www.iq.harvard.edu/people/juan-pablo-tosca) Born and raised in Mexico City and living in Boston MA since 2014.
+### Hi, I’m @jp-tosca and I am part of the [Dataverse](https://github.com/IQSS/dataverse) core development team at [Harvard University - IQSS](https://www.iq.harvard.edu/people/juan-pablo-tosca).
 
 <!---
 jp-tosca/jp-tosca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
